@@ -13,3 +13,5 @@ Thanks for contributions from Tamás Gulácsi @tgulacsi, @flyin9.
 * Use **OpenReader** function for open xls from a reader, you should close related file in your own code
 
 * Follow the example in GoDoc
+
+* Added tag to v0.0.2 otherwise go modules download the old version
